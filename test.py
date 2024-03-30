@@ -26,7 +26,7 @@ st.set_page_config(
 
 with st.sidebar:
     #st.title('欢迎使用并反馈宝贵意见')
-    st.image('tongji.png', caption=' ')
+    #st.image('tongji.png', caption=' ')
     
     st.markdown('---')
     st.markdown('目录：\n- 使用界面\n- 帮助文档\n- 开发团队')
@@ -34,7 +34,7 @@ with st.sidebar:
 
 
 # 设置标题
-st.title('关于输入功能的提示')
+#st.title('关于输入功能的提示')
 #st.image('tongji.png', caption=' ')
 
 
